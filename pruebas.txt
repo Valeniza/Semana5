@@ -1,0 +1,13 @@
+
+En la primera ruta aparece un mensaje del estado del servidor  
+
+Servidor funcionando correctamente 
+
+En la segunda ruta aparece un mensaje de saludo
+
+Hola comunidad 
+
+En la tercera ruta aparece un mensaje haciendo referencia a una persona en 
+específico
+
+Hola Juan 

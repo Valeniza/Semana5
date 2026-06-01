@@ -1,0 +1,12 @@
+
+Qué hace esta ruta.
+
+La ruta responde a un mensaje que ha sido enviado anteriormente y este es contestado
+como un mensaje en archivo json 
+
+Para qué podría servir en una aplicación comunitaria.
+
+La ruta POST en la aplicación de una comunidad seria de mucha utilidad para realizar
+envios ya sean reportes de problemas que afecten el bienestar de esta, reclamos,
+quejas o sugerencias.
+
